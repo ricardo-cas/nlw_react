@@ -27,3 +27,7 @@ create react-app moveit --template=typescript
 
 - [x] node_modules
   - Pasta onde fica instalada todas as dependências da aplicação
+- [x] public
+  - Pasta onde fica tudo o que está disponível na aplicação para ser acessado de uma forma direta pelo usuário final.
+- [x] src
+  - Pasta onde vai ficar todo o código da nossa aplicação (código typescript, css, imagem)
