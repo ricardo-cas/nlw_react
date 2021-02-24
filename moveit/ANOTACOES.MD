@@ -3,6 +3,8 @@
 - [01. Aula 1](#01-aula-1)
   - [Comandos utitizados:](#comandos-utitizados)
     - [entendendo a estrutura de pastas criadas](#entendendo-a-estrutura-de-pastas-criadas)
+- [Conceitos:](#conceitos)
+  - [Componentes](#componentes)
 
 # Next Level Week 01
 
@@ -17,10 +19,7 @@ link de referencia [Notion_NLW](https://www.notion.so/Configura-es-do-ambiente-R
 Criando o projeto com ReactJS:
 
 ```bash
-
 create react-app moveit --template=typescript
-
-
 ```
 
 ### entendendo a estrutura de pastas criadas
@@ -31,3 +30,11 @@ create react-app moveit --template=typescript
   - Pasta onde fica tudo o que está disponível na aplicação para ser acessado de uma forma direta pelo usuário final.
 - [x] src
   - Pasta onde vai ficar todo o código da nossa aplicação (código typescript, css, imagem)
+
+# Conceitos:
+
+## Componentes
+
+- Tudo que conseguimos isolar dentro de uma aplicação é um componente
+- Tudo que eu consigo repetir dentro da minha aplicação pode ser um compomente.
+-
